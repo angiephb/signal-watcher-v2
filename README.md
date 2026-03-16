@@ -13,8 +13,8 @@ El proyecto está organizado de forma modular para facilitar su escalabilidad y 
 
 El sistema se encuentra desplegado y listo para pruebas en los siguientes entornos:
 
-* **Frontend (Vercel):** [LINK_FRONTEND]
-* **Backend API (Render):** [LINK_BACKEND]
+* **Frontend (Vercel):** [https://signal-watcher-v2.vercel.app/]
+* **Backend API (Render):** [https://signal-watcher-v2.onrender.com]
 
 ---
 

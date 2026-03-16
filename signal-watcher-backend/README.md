@@ -39,4 +39,4 @@ El backend estará disponible en `http://localhost:3001`.
 
 ## Despliegue
 
-*desplegar en render
+**Backend API (Render):** [https://signal-watcher-v2.onrender.com]

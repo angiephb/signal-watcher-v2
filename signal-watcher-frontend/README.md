@@ -25,4 +25,4 @@ El frontend estará disponible en `http://localhost:3000`.
 
 ## Despliegue
 
-*desplegar en vercel*
+**Frontend (Vercel):** [https://signal-watcher-v2.vercel.app/]
