@@ -22,7 +22,7 @@ export function SignalForm({ onAnalysisComplete, onTextChange }: SignalFormProps
     const result = await createSignalAction(text);
     
     if (result.success) {
-      onAnalysisComplete(result.data); // Aquí guardas la respuesta de Gemini
+      onAnalysisComplete(result.data);
     } else {
       setError(result.error || "An unknown error occurred");
     }
